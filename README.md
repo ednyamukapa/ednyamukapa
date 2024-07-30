@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Edwin Chengetai Nyamukapa.</h1>
-<h3 align="center">I'm a full-stack developer. I'm an avid learner & I love to solve problem.</h3>
+<h3 align="center">I'm a full-stack developer. I'm an avid learner & I love to solve problems & automate tasks.</h3>
 
 - 🔭 I’m currently working at **Webcrunchy.**
 
