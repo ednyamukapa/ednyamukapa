@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at **Webcrunchy.**
 
-- 🌱 I’m currently learning **Java, Springboot, Ruby, Rails.**
+- 🌱 I’m currently learning **Golang & Rust.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ednyamukapa](https://github.com/ednyamukapa)
 
-- 💬 Ask me about **Python, Vue.js, Rails.**
+- 💬 Ask me about **Python, Golang, Rust.**
 
 - 📫 How to reach me **edwincnyamukapa1@gmail.com**
 
