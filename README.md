@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Golang, Rust.**
 
-- 📫 How to reach me **edwincnyamukapa1@gmail.com**
+- 📫 How to reach me **ednyamukapa@yahoo.com**
 
 - ⚡ Fun fact **If it works, don't touch it!**
 
